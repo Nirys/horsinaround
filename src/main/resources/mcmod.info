@@ -1,0 +1,16 @@
+[
+{
+  "modid": "HorsinAround",
+  "name": "Horsin' Around",
+  "description": "Advanced breeding and saddle creation",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["QueenNuffer"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
